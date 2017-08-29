@@ -1,0 +1,36 @@
+body{
+	margin:0;
+}
+.jumbotron{
+	background-image:url(img/igor.jpg);
+	background-size:cover;
+	background-position: center;
+	margin-top:-20px;
+	height:550px;
+	text-align:center;
+	padding-top:150px;
+	color:#fff;
+}
+.about{
+	text-align:center;
+	padding: 40px;
+
+}
+.about h2{
+	padding-bottom:15px;
+}
+.icon{
+	font-size:50px;
+	padding-top:30px;
+	background:#333;
+	color:white;
+	padding:20px;
+	border-radius:50%;
+}
+img{
+	width: 200px;
+	height:200px;
+	margin:auto;
+	margin-top:-60px;
+	border-radius:100%;
+}
